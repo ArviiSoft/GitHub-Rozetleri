@@ -10,20 +10,20 @@ GitHub Rozetleri ve Başarıları, ilk "Mars Helikopteri" tanıtımından sonra 
 Bu başarımlar hala test aşamasında ve yakında alınabilir olacak:
 | İsim | Rozet Resmi | Kazanılabilir? | Kazanma Yolu | Zorluk |
 | --- | --- | --- | --- | --- |
-Heart On Your Sleeve | <img src="https://github.com/user-attachments/assets/e553cf74-a8ff-4046-9adf-639f87a81095" width="120px"> | `🔜 Test Aşamasında` | Kullanıcılar, GitHub'da bir şeye ❤️ emojisi ile tepki vererek bu rozeti alabilir. | Çok Kolay
-Open Sourcerer | <img src="https://github.com/user-attachments/assets/aa8ab00e-8985-4b2b-8180-bfc163175123" width="120px"> | `🔜 Test Aşamasında` | Bir kullanıcının 1'den fazla genel repoda birleştirilmiş Pull Request'i varsa elde edilebilir. | Orta
+Heart On Your Sleeve | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/heart-on-your-sleeve-default.png" width="120px"> | `🔜 Test Aşamasında` | Kullanıcılar, GitHub'da bir şeye ❤️ emojisi ile tepki vererek bu rozeti alabilir. | Çok Kolay
+Open Sourcerer | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="120px"> | `🔜 Test Aşamasında` | Bir kullanıcının 1'den fazla genel repoda birleştirilmiş Pull Request'i varsa elde edilebilir. | Orta
 
 # 🥇 ELDE EDİLEBİLİR Başarılar
 Aşağıda listelenen başarılar, elde edebileceğiniz başarılardır:
 | İsim | Rozet Resmi | Kazanılabilir? | Kazanma Yolu | Zorluk |
 | --- | --- | --- | --- | --- |
-Pull Shark | <img src="https://github.com/user-attachments/assets/d6d452ba-6249-4fae-84f9-9c0c82e7dadc" width="175px"> | `✅ Evet` | Bu rozeti, 2 tane Pull Request'i birleştirerek alabilirsiniz. | Orta
-YOLO | <img src="https://github.com/user-attachments/assets/02735951-5c22-47c6-9151-bbf2a6b6c471" width="175px"> | `✅ Evet` | Bir kullanıcı, inceleme yapmadan bir Pull Request'i birleştirerek bu rozeti alabilir. (Bunun için 1 kullanıcı ve 1 inceleyen gereklidir) | Orta
-Quickdraw | <img src="https://github.com/user-attachments/assets/4460930b-8417-4570-869e-cd30c411a738" width="175px"> | `✅ Evet` | Bir Pull Request'i veya Issues'ı, açıldıktan sonra 5 dakika içinde kapatarak elde edilebiliriniz. (Kendi Issues'larınızı kapatabilirsiniz) | Çok Kolay
-Pair Extraordinaire	 | <img src="https://github.com/user-attachments/assets/52f383b0-8924-45c7-a0eb-9ab9c9925286" width="175px"> | `✅ Evet` | Kullanıcı bu rozeti, birleştirilmiş bir Pull Request'de [Ortak Yazarlık](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) yaparak elde edebilir. ("GitHub Masaüstü Uygulaması" gerekiyor) | Zor
-Galaxy Brain | <img src="https://github.com/user-attachments/assets/d2dbbf9e-8e4a-45c9-a516-7c1bfa44327f" width="175px"> | `✅ Evet` | Bir kullanıcı, [Topluluk Tartışmaları](https://github.com/orgs/community/discussions/) forumunda verdiği cevaplardan 2'sinin kabul edilmesiyle bu rozeti alabilir. | Orta
-Starstruck | <img src="https://github.com/user-attachments/assets/ecfdfac1-82fb-4d29-a62d-f771651a1404" width="175px"> | `✅ Evet` | Bu rozet, kullanıcının repolarından biri 16 yıldız aldığında kazanılır. | Zor
-Public Sponsor | <img src="https://github.com/user-attachments/assets/e259b0ef-67df-40b0-bc14-3a0b4c150930" width="175px"> | `✅ Evet` | Bu rozet bir repoya/kuruluşa/kullanıcıya sponsor olarak kazanılabilir. | Çok Kolay
+Pull Shark | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="175px"> | `✅ Evet` | Bu rozeti, 2 tane Pull Request'i birleştirerek alabilirsiniz. | Orta
+YOLO | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="175px"> | `✅ Evet` | Bir kullanıcı, inceleme yapmadan bir Pull Request'i birleştirerek bu rozeti alabilir. (Bunun için 1 kullanıcı ve 1 inceleyen gereklidir) | Orta
+Quickdraw | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="175px"> | `✅ Evet` | Bir Pull Request'i veya Issues'ı, açıldıktan sonra 5 dakika içinde kapatarak elde edilebiliriniz. (Kendi Issues'larınızı kapatabilirsiniz) | Çok Kolay
+Pair Extraordinaire	 | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="175px"> | `✅ Evet` | Kullanıcı bu rozeti, birleştirilmiş bir Pull Request'de [Ortak Yazarlık](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors) yaparak elde edebilir. ("GitHub Masaüstü Uygulaması" gerekiyor) | Zor
+Galaxy Brain | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="175px"> | `✅ Evet` | Bir kullanıcı, [Topluluk Tartışmaları](https://github.com/orgs/community/discussions/) forumunda verdiği cevaplardan 2'sinin kabul edilmesiyle bu rozeti alabilir. | Orta
+Starstruck | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="175px"> | `✅ Evet` | Bu rozet, kullanıcının repolarından biri 16 yıldız aldığında kazanılır. | Zor
+Public Sponsor | <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/public-sponsor-default.png" width="175px"> | `✅ Evet` | Bu rozet bir repoya/kuruluşa/kullanıcıya sponsor olarak kazanılabilir. | Çok Kolay
 
 # ⛔ ELDE EDİLEMEZ Başarılar
 Aşağıdakiler eskiden alınabilen ancak artık alınamayan rozetlerdir:
