@@ -7,7 +7,6 @@ GitHub Rozetleri ve Başarıları, ilk "Mars Helikopteri" tanıtımından sonra 
 > Bugün GitHub'da bronz, gümüş ve altın olmak üzere toplam 11 rozet bulunmakta.
 
 # 🧪 TEST AŞAMASINDAKİ Başarılar
----------
 Bu başarımlar hala test aşamasında ve yakında alınabilir olacak:
 | İsim | Rozet Resmi | Kazanılabilir? | Kazanma Yolu | Zorluk |
 | --- | --- | --- | --- | --- |
